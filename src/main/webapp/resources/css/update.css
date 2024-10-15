@@ -1,0 +1,17 @@
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+th, td {
+	padding: 10px;
+}
+#updateForm {
+	width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+}
+div {
+	color: red;
+	font-size: 8pt;
+	font-weight: bold;
+}
